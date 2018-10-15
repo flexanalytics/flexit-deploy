@@ -1,1 +1,1 @@
-web: ./bin/flexit start
+web: bin/flexit start
