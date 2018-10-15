@@ -3,4 +3,4 @@ mkdir config
 mkdir deployments
 mkdir logs
 cd bin
-jar xf flexit.zip
+unzip flexit.zip
