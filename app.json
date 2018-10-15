@@ -8,6 +8,9 @@
             "plan": "heroku-postgresql"
         }
     ],
+    "scripts": {
+        "postdeploy": "./postdeploy.sh"
+    },
     "buildpacks": [
         {
             "url": "https://github.com/ph3nx/heroku-binary-buildpack.git"

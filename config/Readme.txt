@@ -1,1 +1,0 @@
-FlexIt Configuration file is created in here
