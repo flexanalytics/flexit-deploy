@@ -3,6 +3,7 @@
     "description": "Business Intelligence, Built for People",
     "logo": "https://flexitanalytics.com/wp-content/uploads/2018/05/Flex-X-small.png",
     "repository": "https://github.com/ataft/flexit-deploy",
+    "success_url": "/#home",
     "addons": [
         {
             "plan": "heroku-postgresql"
