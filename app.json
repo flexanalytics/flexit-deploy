@@ -19,7 +19,7 @@
         }
     ],
     "scripts": {
-        "postdeploy": "chmod u+x postdeploy.sh && ./postdeploy.sh"
+        "postdeploy": "./postdeploy.sh"
     },
     "buildpacks": [
         {
