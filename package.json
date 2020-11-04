@@ -1,0 +1,20 @@
+{
+  "name": "flexit",
+  "version": "2020.11.001",
+  "engines": {
+  },
+  "scripts": {
+    "postinstall": "chmod u+x postinstall.sh && ./postinstall.sh",
+    "start": "chmod u+x ./bin/flexit && ./bin/flexit start -nodaemon"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ataft/flexit-deploy"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
