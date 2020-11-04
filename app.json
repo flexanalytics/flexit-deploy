@@ -19,7 +19,7 @@
         }
     ],
     "scripts": {
-        "postdeploy": "bash ./postdeploy.sh"
+        "predeploy": "bash ./postdeploy.sh"
     },
     "buildpacks": [
         {
