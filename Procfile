@@ -1,1 +1,1 @@
-web: ./bin/flexit start -nodaemon
+web: chmod u+x postdeploy.sh && ./postdeploy.sh

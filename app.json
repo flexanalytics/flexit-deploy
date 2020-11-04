@@ -19,7 +19,6 @@
         }
     ],
     "scripts": {
-        "predeploy": "bash ./postdeploy.sh"
     },
     "buildpacks": [
         {
