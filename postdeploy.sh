@@ -5,5 +5,3 @@ mkdir logs
 cd bin
 unzip flexit.zip
 chmod u+x flexit
-./flexit start
-mv NOProcfile Procfile
