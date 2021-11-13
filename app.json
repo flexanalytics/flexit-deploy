@@ -34,9 +34,6 @@
         "CHROMIUM_PATH": {
             "description": "Chrome buildpack install location for pdf/png download",
             "value": "/app/.apt/usr/bin/google-chrome"
-        },
-        "HEROKU_APP_NAME": {
-            "required": true
         }
     }
 }
