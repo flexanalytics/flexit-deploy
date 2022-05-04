@@ -21,17 +21,12 @@
     "scripts": {
     },
     "buildpacks": [
-        { "url": "https://github.com/ph3nx/heroku-binary-buildpack.git" },
-        { "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/google-chrome.tgz" }
+        { "url": "https://github.com/ph3nx/heroku-binary-buildpack.git" }
     ],
     "env": {
         "PROTOCOL": {
             "description": "Heroku has SSL enabled",
             "value": "https"
-        },
-        "CHROMIUM_PATH": {
-            "description": "Chrome buildpack install location for pdf/png download",
-            "value": "/app/.apt/usr/bin/google-chrome"
         }
     }
 }
