@@ -10,8 +10,8 @@
         "charting",
         "flexit"
     ],
-    "logo": "https://flexitanalytics.com/wp-content/uploads/2018/05/Flex-X-small.png",
-    "repository": "https://github.com/ataft/flexit-deploy",
+    "logo": "https://github.com/flexanalytics/flexit-deploy/blob/a721de9a885a1595639c02465b89fa6f136d5186/webcontent/Flex-X-small.png",
+    "repository": "https://github.com/flexanalytics/flexit-deploy",
     "success_url": "/#home",
     "addons": [
         {
